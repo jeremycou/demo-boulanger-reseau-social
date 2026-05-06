@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
-  <!-- Fond orange arrondi -->
-  <rect x="5" y="5" width="70" height="70" fill="#FF6600" rx="12"/>
-  <!-- Lettre B stylisée en blanc -->
-  <text x="40" y="58" font-family="Arial Black, Arial, sans-serif" font-size="50" font-weight="900" fill="white" text-anchor="middle">B</text>
-  <!-- Texte Boulanger en bleu -->
-  <text x="135" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#003366" text-anchor="middle">boulanger</text>
-  <!-- Sous-titre en gris -->
-  <text x="135" y="55" font-family="Arial, sans-serif" font-size="9" fill="#666666" text-anchor="middle">multimédia &amp; électroménager</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fond orange avec coins arrondis comme le vrai logo Boulanger -->
+  <rect width="100" height="100" fill="#FF6600" rx="20" ry="20"/>
+  <!-- B stylisé en blanc - style Boulanger -->
+  <path fill="white" d="M30 20h25c12 0 20 8 20 18 0 7-4 12-10 15 8 2 14 9 14 18 0 12-10 19-22 19H30V20zm15 28c8 0 12-4 12-10s-4-10-12-10H45v20h0zm2 30c9 0 14-5 14-12s-5-12-14-12H45v24h2z"/>
 </svg>
